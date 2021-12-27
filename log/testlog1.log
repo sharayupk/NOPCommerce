@@ -1,0 +1,307 @@
+2021-12-21 19:54:02,619 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-21 19:54:18,226 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-21 19:54:22,838 [main] INFO NopCommerce - URL Launched
+2021-12-21 19:54:22,979 [main] INFO NopCommerce - Maximizing Browser
+2021-12-21 19:54:23,122 [main] INFO NopCommerce - Validating Login Page Title
+2021-12-21 19:54:23,288 [main] INFO NopCommerce - Browser Closed
+2021-12-21 19:54:25,178 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-21 19:54:27,707 [main] INFO NopCommerce - URL Launched
+2021-12-21 19:54:27,843 [main] INFO NopCommerce - Maximizing Browser
+2021-12-21 19:55:04,850 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-21 19:55:09,132 [main] INFO NopCommerce - URL Launched
+2021-12-21 19:55:09,280 [main] INFO NopCommerce - Maximizing Browser
+2021-12-21 19:55:09,360 [main] INFO NopCommerce - Validating Login Page Title
+2021-12-21 19:55:14,243 [main] INFO NopCommerce - Browser Closed
+2021-12-21 19:55:16,355 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-21 19:55:21,008 [main] INFO NopCommerce - URL Launched
+2021-12-21 19:55:21,156 [main] INFO NopCommerce - Maximizing Browser
+2021-12-21 19:55:21,230 [main] INFO NopCommerce - Validating Login Page Text
+2021-12-21 19:55:21,327 [main] INFO NopCommerce - Browser Closed
+2021-12-21 19:55:23,328 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-21 19:55:27,327 [main] INFO NopCommerce - URL Launched
+2021-12-21 19:55:27,463 [main] INFO NopCommerce - Maximizing Browser
+2021-12-21 19:55:31,927 [main] INFO NopCommerce - Login Done Successfully
+2021-12-21 19:55:32,051 [main] INFO NopCommerce - Browser Closed
+2021-12-23 11:50:25,040 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-23 11:50:28,946 [main] INFO NopCommerce - URL Launched
+2021-12-23 11:50:29,083 [main] INFO NopCommerce - Maximizing Browser
+2021-12-23 11:50:39,786 [main] INFO NopCommerce - Clicked on Product Link
+2021-12-23 11:50:39,886 [main] INFO NopCommerce - Validate Product Text Present on Product Page
+2021-12-23 11:50:40,016 [main] INFO NopCommerce - Browser Closed
+2021-12-23 11:50:41,654 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-23 11:50:45,536 [main] INFO NopCommerce - URL Launched
+2021-12-23 11:50:45,680 [main] INFO NopCommerce - Maximizing Browser
+2021-12-23 11:50:56,260 [main] INFO NopCommerce - Clicked on Product Link
+2021-12-23 11:50:57,007 [main] INFO NopCommerce - Browser Closed
+2021-12-23 11:50:58,655 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-23 11:51:01,252 [main] INFO NopCommerce - URL Launched
+2021-12-23 11:51:01,387 [main] INFO NopCommerce - Maximizing Browser
+2021-12-23 11:51:11,656 [main] INFO NopCommerce - Clicked on Product Link
+2021-12-23 11:51:15,798 [main] INFO NopCommerce - Added Product
+2021-12-23 11:51:15,935 [main] INFO NopCommerce - Browser Closed
+2021-12-23 16:26:28,498 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-23 16:26:34,072 [main] INFO NopCommerce - URL Launched
+2021-12-23 16:26:34,208 [main] INFO NopCommerce - Maximizing Browser
+2021-12-23 16:26:45,137 [main] INFO NopCommerce - Clicked on Product Link
+2021-12-23 16:26:45,229 [main] INFO NopCommerce - Validate Product Text Present on Product Page
+2021-12-23 16:26:45,342 [main] INFO NopCommerce - Browser Closed
+2021-12-23 16:26:47,041 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-23 16:26:50,411 [main] INFO NopCommerce - URL Launched
+2021-12-23 16:26:50,567 [main] INFO NopCommerce - Maximizing Browser
+2021-12-23 16:27:01,845 [main] INFO NopCommerce - Clicked on Product Link
+2021-12-23 16:27:04,060 [main] INFO NopCommerce - Browser Closed
+2021-12-23 16:27:05,756 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-23 16:27:08,791 [main] INFO NopCommerce - URL Launched
+2021-12-23 16:27:08,931 [main] INFO NopCommerce - Maximizing Browser
+2021-12-23 16:27:18,401 [main] INFO NopCommerce - Clicked on Product Link
+2021-12-23 16:27:35,704 [main] INFO NopCommerce - Added Product
+2021-12-23 16:27:35,805 [main] INFO NopCommerce - Browser Closed
+2021-12-23 16:30:39,078 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-23 16:30:42,553 [main] INFO NopCommerce - URL Launched
+2021-12-23 16:30:42,691 [main] INFO NopCommerce - Maximizing Browser
+2021-12-23 16:30:53,476 [main] INFO NopCommerce - Clicked on Product Link
+2021-12-23 16:30:53,580 [main] INFO NopCommerce - Validate Product Text Present on Product Page
+2021-12-23 16:30:53,710 [main] INFO NopCommerce - Browser Closed
+2021-12-23 16:30:55,588 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-23 16:30:58,013 [main] INFO NopCommerce - URL Launched
+2021-12-23 16:30:58,154 [main] INFO NopCommerce - Maximizing Browser
+2021-12-23 16:31:07,311 [main] INFO NopCommerce - Clicked on Product Link
+2021-12-23 16:31:09,541 [main] INFO NopCommerce - Browser Closed
+2021-12-23 16:31:11,345 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-23 16:31:15,036 [main] INFO NopCommerce - URL Launched
+2021-12-23 16:31:15,177 [main] INFO NopCommerce - Maximizing Browser
+2021-12-23 16:31:26,448 [main] INFO NopCommerce - Clicked on Product Link
+2021-12-23 16:31:30,513 [main] INFO NopCommerce - Added Product
+2021-12-23 16:31:34,677 [main] INFO NopCommerce - Browser Closed
+2021-12-23 16:32:17,893 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-23 16:32:19,718 [main] INFO NopCommerce - URL Launched
+2021-12-23 16:32:19,865 [main] INFO NopCommerce - Maximizing Browser
+2021-12-23 16:32:30,781 [main] INFO NopCommerce - Clicked on Product Link
+2021-12-23 16:32:30,933 [main] INFO NopCommerce - Validate Product Text Present on Product Page
+2021-12-23 16:32:31,079 [main] INFO NopCommerce - Browser Closed
+2021-12-23 16:32:32,885 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-23 16:32:38,244 [main] INFO NopCommerce - URL Launched
+2021-12-23 16:32:38,383 [main] INFO NopCommerce - Maximizing Browser
+2021-12-23 16:32:51,535 [main] INFO NopCommerce - Clicked on Product Link
+2021-12-23 16:32:54,341 [main] INFO NopCommerce - Clicked on Product Check Box in the product List
+2021-12-23 16:32:56,457 [main] INFO NopCommerce - Browser Closed
+2021-12-23 16:32:58,198 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-23 16:33:03,760 [main] INFO NopCommerce - URL Launched
+2021-12-23 16:33:03,898 [main] INFO NopCommerce - Maximizing Browser
+2021-12-23 16:33:18,144 [main] INFO NopCommerce - Clicked on Product Link
+2021-12-23 16:33:24,071 [main] INFO NopCommerce - Added Product
+2021-12-23 16:33:28,207 [main] INFO NopCommerce - Browser Closed
+2021-12-23 19:03:47,638 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-23 19:03:51,572 [main] INFO NopCommerce - URL Launched
+2021-12-23 19:03:51,712 [main] INFO NopCommerce - Maximizing Browser
+2021-12-23 19:03:56,325 [main] INFO NopCommerce - Validating Home Page Logo
+2021-12-23 19:03:56,433 [main] INFO NopCommerce - Browser Closed
+2021-12-23 19:03:58,077 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-23 19:04:00,782 [main] INFO NopCommerce - URL Launched
+2021-12-23 19:04:00,926 [main] INFO NopCommerce - Maximizing Browser
+2021-12-23 19:04:08,638 [main] INFO NopCommerce - Clicked on Catalog Link
+2021-12-23 19:04:08,761 [main] INFO NopCommerce - Browser Closed
+2021-12-23 19:04:10,500 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-23 19:04:12,865 [main] INFO NopCommerce - URL Launched
+2021-12-23 19:04:13,019 [main] INFO NopCommerce - Maximizing Browser
+2021-12-23 19:04:22,555 [main] INFO NopCommerce - Clicked on Product Link
+2021-12-23 19:04:22,652 [main] INFO NopCommerce - Browser Closed
+2021-12-23 19:05:15,410 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-23 19:05:17,905 [main] INFO NopCommerce - URL Launched
+2021-12-23 19:05:18,063 [main] INFO NopCommerce - Maximizing Browser
+2021-12-23 19:05:21,087 [main] INFO NopCommerce - Validating Home Page Logo
+2021-12-23 19:05:21,223 [main] INFO NopCommerce - Browser Closed
+2021-12-23 19:05:22,863 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-23 19:05:24,497 [main] INFO NopCommerce - URL Launched
+2021-12-23 19:05:24,660 [main] INFO NopCommerce - Maximizing Browser
+2021-12-23 19:05:31,574 [main] INFO NopCommerce - Clicked on Catalog Link
+2021-12-23 19:05:31,668 [main] INFO NopCommerce - Browser Closed
+2021-12-23 19:05:33,392 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-23 19:05:35,119 [main] INFO NopCommerce - URL Launched
+2021-12-23 19:05:35,276 [main] INFO NopCommerce - Maximizing Browser
+2021-12-23 19:05:44,595 [main] INFO NopCommerce - Clicked on Product Link
+2021-12-23 19:05:44,701 [main] INFO NopCommerce - Browser Closed
+2021-12-23 19:08:11,728 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-23 19:08:13,510 [main] INFO NopCommerce - URL Launched
+2021-12-23 19:08:13,654 [main] INFO NopCommerce - Maximizing Browser
+2021-12-23 19:08:16,623 [main] INFO NopCommerce - Validating Home Page Logo
+2021-12-23 19:08:20,811 [main] INFO NopCommerce - Browser Closed
+2021-12-23 19:08:22,444 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-23 19:08:26,373 [main] INFO NopCommerce - URL Launched
+2021-12-23 19:08:26,528 [main] INFO NopCommerce - Maximizing Browser
+2021-12-23 19:08:34,346 [main] INFO NopCommerce - Clicked on Catalog Link
+2021-12-23 19:08:38,506 [main] INFO NopCommerce - Browser Closed
+2021-12-23 19:08:40,146 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-23 19:08:42,528 [main] INFO NopCommerce - URL Launched
+2021-12-23 19:08:42,693 [main] INFO NopCommerce - Maximizing Browser
+2021-12-23 19:08:52,928 [main] INFO NopCommerce - Clicked on Product Link
+2021-12-23 19:08:53,025 [main] INFO NopCommerce - Browser Closed
+2021-12-27 13:59:24,388 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 13:59:28,539 [main] INFO NopCommerce - URL Launched
+2021-12-27 13:59:28,676 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 13:59:33,552 [main] INFO NopCommerce - Login Done Successfully
+2021-12-27 13:59:33,713 [main] INFO NopCommerce - Browser Closed
+2021-12-27 13:59:36,071 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 13:59:38,201 [main] INFO NopCommerce - URL Launched
+2021-12-27 13:59:38,336 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 13:59:39,144 [main] INFO NopCommerce - Login Done Successfully
+2021-12-27 13:59:39,238 [main] INFO NopCommerce - Browser Closed
+2021-12-27 13:59:41,468 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 13:59:45,540 [main] INFO NopCommerce - URL Launched
+2021-12-27 13:59:45,674 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 13:59:47,741 [main] INFO NopCommerce - Login Done Successfully
+2021-12-27 13:59:47,815 [main] INFO NopCommerce - Browser Closed
+2021-12-27 14:04:52,410 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 14:04:55,645 [main] INFO NopCommerce - URL Launched
+2021-12-27 14:04:55,780 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 14:05:01,528 [main] INFO NopCommerce - Login Done Successfully
+2021-12-27 14:05:01,617 [main] INFO NopCommerce - Browser Closed
+2021-12-27 14:05:03,776 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 14:05:07,992 [main] INFO NopCommerce - URL Launched
+2021-12-27 14:05:08,125 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 14:05:09,985 [main] INFO NopCommerce - Login Done Successfully
+2021-12-27 14:05:10,059 [main] INFO NopCommerce - Browser Closed
+2021-12-27 14:05:12,088 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 14:05:15,233 [main] INFO NopCommerce - URL Launched
+2021-12-27 14:05:15,376 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 14:05:17,063 [main] INFO NopCommerce - Login Done Successfully
+2021-12-27 14:05:17,128 [main] INFO NopCommerce - Browser Closed
+2021-12-27 14:06:40,329 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 14:06:43,506 [main] INFO NopCommerce - URL Launched
+2021-12-27 14:06:43,645 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 14:06:43,714 [main] INFO NopCommerce - Validating Login Page Title
+2021-12-27 14:07:08,088 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 14:07:11,262 [main] INFO NopCommerce - URL Launched
+2021-12-27 14:07:11,393 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 14:07:11,464 [main] INFO NopCommerce - Validating Login Page Title
+2021-12-27 14:07:15,578 [main] INFO NopCommerce - Browser Closed
+2021-12-27 14:07:17,223 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 14:07:20,479 [main] INFO NopCommerce - URL Launched
+2021-12-27 14:07:20,612 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 14:07:20,691 [main] INFO NopCommerce - Validating Login Page Text
+2021-12-27 14:07:20,806 [main] INFO NopCommerce - Browser Closed
+2021-12-27 14:07:22,996 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 14:07:27,100 [main] INFO NopCommerce - URL Launched
+2021-12-27 14:07:27,242 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 14:07:31,907 [main] INFO NopCommerce - Login Done Successfully
+2021-12-27 14:07:31,998 [main] INFO NopCommerce - Browser Closed
+2021-12-27 14:13:55,175 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 14:13:58,345 [main] INFO NopCommerce - URL Launched
+2021-12-27 14:13:58,481 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 14:13:58,575 [main] INFO NopCommerce - Validating Login Page Title
+2021-12-27 14:13:58,683 [main] INFO NopCommerce - Browser Closed
+2021-12-27 14:14:00,915 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 14:14:05,006 [main] INFO NopCommerce - URL Launched
+2021-12-27 14:14:05,149 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 14:14:05,223 [main] INFO NopCommerce - Validating Login Page Text
+2021-12-27 14:14:09,373 [main] INFO NopCommerce - Browser Closed
+2021-12-27 14:14:11,262 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 14:14:15,473 [main] INFO NopCommerce - URL Launched
+2021-12-27 14:14:15,611 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 14:14:20,420 [main] INFO NopCommerce - Login Done Successfully
+2021-12-27 14:14:20,566 [main] INFO NopCommerce - Browser Closed
+2021-12-27 15:11:02,855 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 15:11:04,180 [main] INFO NopCommerce - URL Launched
+2021-12-27 15:11:04,325 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 15:11:04,412 [main] INFO NopCommerce - Validating Login Page Title
+2021-12-27 15:11:08,608 [main] INFO NopCommerce - Browser Closed
+2021-12-27 15:11:10,419 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 15:11:14,539 [main] INFO NopCommerce - URL Launched
+2021-12-27 15:11:14,673 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 15:11:14,751 [main] INFO NopCommerce - Validating Login Page Text
+2021-12-27 15:11:14,842 [main] INFO NopCommerce - Browser Closed
+2021-12-27 15:11:16,761 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 15:11:19,859 [main] INFO NopCommerce - URL Launched
+2021-12-27 15:11:19,987 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 15:11:25,456 [main] INFO NopCommerce - Login Done Successfully
+2021-12-27 15:11:25,528 [main] INFO NopCommerce - Browser Closed
+2021-12-27 15:12:45,089 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 15:12:46,539 [main] INFO NopCommerce - URL Launched
+2021-12-27 15:12:46,692 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 15:12:46,795 [main] INFO NopCommerce - Validating Login Page Title
+2021-12-27 15:12:46,940 [main] INFO NopCommerce - Browser Closed
+2021-12-27 15:12:49,186 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 15:12:53,356 [main] INFO NopCommerce - URL Launched
+2021-12-27 15:12:53,485 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 15:12:53,552 [main] INFO NopCommerce - Validating Login Page Text
+2021-12-27 15:12:57,703 [main] INFO NopCommerce - Browser Closed
+2021-12-27 15:12:59,409 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 15:13:02,853 [main] INFO NopCommerce - URL Launched
+2021-12-27 15:13:02,998 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 15:13:06,102 [main] INFO NopCommerce - Login Done Successfully
+2021-12-27 15:13:06,185 [main] INFO NopCommerce - Browser Closed
+2021-12-27 15:14:24,824 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 15:14:29,178 [main] INFO NopCommerce - URL Launched
+2021-12-27 15:14:29,315 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 15:14:29,429 [main] INFO NopCommerce - Validating Login Page Title
+2021-12-27 15:14:29,558 [main] INFO NopCommerce - Browser Closed
+2021-12-27 15:14:31,385 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 15:14:35,672 [main] INFO NopCommerce - URL Launched
+2021-12-27 15:14:35,809 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 15:14:35,888 [main] INFO NopCommerce - Validating Login Page Text
+2021-12-27 15:14:40,040 [main] INFO NopCommerce - Browser Closed
+2021-12-27 15:14:41,729 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 15:14:46,030 [main] INFO NopCommerce - URL Launched
+2021-12-27 15:14:46,174 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 15:14:50,029 [main] INFO NopCommerce - Login Done Successfully
+2021-12-27 15:14:50,105 [main] INFO NopCommerce - Browser Closed
+2021-12-27 15:15:17,135 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 15:15:21,553 [main] INFO NopCommerce - URL Launched
+2021-12-27 15:15:21,702 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 15:15:21,818 [main] INFO NopCommerce - Validating Login Page Title
+2021-12-27 15:15:21,938 [main] INFO NopCommerce - Browser Closed
+2021-12-27 15:15:23,612 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 15:15:27,900 [main] INFO NopCommerce - URL Launched
+2021-12-27 15:15:28,034 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 15:15:28,111 [main] INFO NopCommerce - Validating Login Page Text
+2021-12-27 15:15:32,284 [main] INFO NopCommerce - Browser Closed
+2021-12-27 15:15:34,002 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 15:15:37,331 [main] INFO NopCommerce - URL Launched
+2021-12-27 15:15:37,471 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 15:15:43,323 [main] INFO NopCommerce - Login Done Successfully
+2021-12-27 15:15:43,411 [main] INFO NopCommerce - Browser Closed
+2021-12-27 15:23:00,594 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 15:23:05,127 [main] INFO NopCommerce - URL Launched
+2021-12-27 15:23:05,279 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 15:23:05,384 [main] INFO NopCommerce - Validating Login Page Title
+2021-12-27 15:23:09,586 [main] INFO NopCommerce - Browser Closed
+2021-12-27 15:23:11,290 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 15:23:14,748 [main] INFO NopCommerce - URL Launched
+2021-12-27 15:23:14,895 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 15:23:14,980 [main] INFO NopCommerce - Validating Login Page Text
+2021-12-27 15:23:19,171 [main] INFO NopCommerce - Browser Closed
+2021-12-27 15:23:20,864 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 15:23:24,105 [main] INFO NopCommerce - URL Launched
+2021-12-27 15:23:24,245 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 15:23:29,971 [main] INFO NopCommerce - Login Done Successfully
+2021-12-27 15:23:30,060 [main] INFO NopCommerce - Browser Closed
+2021-12-27 15:24:34,024 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 15:24:38,480 [main] INFO NopCommerce - URL Launched
+2021-12-27 15:24:38,636 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 15:24:38,735 [main] INFO NopCommerce - Validating Login Page Title
+2021-12-27 15:24:42,949 [main] INFO NopCommerce - Browser Closed
+2021-12-27 15:24:44,761 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 15:24:48,273 [main] INFO NopCommerce - URL Launched
+2021-12-27 15:24:48,404 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 15:24:48,482 [main] INFO NopCommerce - Validating Login Page Text
+2021-12-27 15:24:48,611 [main] INFO NopCommerce - Browser Closed
+2021-12-27 15:24:50,439 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 15:24:52,185 [main] INFO NopCommerce - URL Launched
+2021-12-27 15:24:52,335 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 15:24:57,046 [main] INFO NopCommerce - Login Done Successfully
+2021-12-27 15:24:57,211 [main] INFO NopCommerce - Browser Closed
+2021-12-27 15:27:00,606 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 15:27:01,973 [main] INFO NopCommerce - URL Launched
+2021-12-27 15:27:02,111 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 15:27:02,177 [main] INFO NopCommerce - Validating Login Page Title
+2021-12-27 15:27:06,338 [main] INFO NopCommerce - Browser Closed
+2021-12-27 15:27:08,157 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 15:27:12,572 [main] INFO NopCommerce - URL Launched
+2021-12-27 15:27:12,708 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 15:27:12,794 [main] INFO NopCommerce - Validating Login Page Text
+2021-12-27 15:27:16,959 [main] INFO NopCommerce - Browser Closed
+2021-12-27 15:27:18,821 [main] INFO NopCommerce - Chrome Browser Launched
+2021-12-27 15:27:22,327 [main] INFO NopCommerce - URL Launched
+2021-12-27 15:27:22,463 [main] INFO NopCommerce - Maximizing Browser
+2021-12-27 15:27:26,272 [main] INFO NopCommerce - Login Done Successfully
+2021-12-27 15:27:30,451 [main] INFO NopCommerce - Browser Closed

@@ -1,0 +1,11 @@
+com\nopCommerce\testCases\BaseClass.class
+com\nopCommerce\utilities\Utility.class
+com\nopCommerce\testCases\ProductPageTest.class
+com\nopCommerce\testCases\LoginPageDDT.class
+com\nopCommerce\utilities\XLUtils.class
+com\nopCommerce\pageObjects\HomePage.class
+com\nopCommerce\utilities\Reporting.class
+com\nopCommerce\pageObjects\ProductPage.class
+com\nopCommerce\testCases\HomePageTest.class
+com\nopCommerce\testCases\LoginPageTest.class
+com\nopCommerce\pageObjects\LoginPage.class
